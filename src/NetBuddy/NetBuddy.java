@@ -1,10 +1,10 @@
-package sctpNetBuddy;
+package NetBuddy;
 
 import com.sun.nio.sctp.*;
 
-public class SCTP_NetBuddy {
+public class NetBuddy {
 
-	public SCTP_NetBuddy(){
+	public NetBuddy(){
 		System.out.printf("Swagggg\n");
 	}
 	

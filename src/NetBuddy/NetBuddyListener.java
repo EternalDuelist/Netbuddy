@@ -1,4 +1,4 @@
-package sctpNetBuddy;
+package NetBuddy;
 
 public class NetBuddyListener {
 
